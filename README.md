@@ -27,7 +27,13 @@ cd your-express-api
 npm install
 ```
 
-### 3. Setup Environment Variables
+### 3. Run Server
+
+```bash
+npm start
+```
+
+### 4. Setup Environment Variables
 Ask the developer or project maintainer for the required .env file. This file contains sensitive information
 
 
