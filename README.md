@@ -26,3 +26,8 @@ cd your-express-api
 ```bash
 npm install
 ```
+
+### 3. Setup Environment Variables
+Ask the developer or project maintainer for the required .env file. This file contains sensitive information
+
+
