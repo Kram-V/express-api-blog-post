@@ -17,7 +17,7 @@ This project is a simple and flexible backend application built with [Express.js
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-express-api.git
+git clone https://github.com/Kram-V/express-api-blog-post.git
 cd your-express-api
 ```
 
